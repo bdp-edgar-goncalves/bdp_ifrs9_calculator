@@ -1,7 +1,7 @@
 bdp_ifrs9_calculator
 ==============================
 
-A short description of the project.
+PoC Python code to calculate ECL
 
 Project Organization
 ------------
